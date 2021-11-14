@@ -1,0 +1,63 @@
+h2{
+  text-align: center;
+  color: #6423C2;
+  font-size: 40px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+header {
+    background-color: #307DDF;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    align-items: center;
+
+}
+header li {
+    margin: 20px;
+}
+
+header * {
+    display: inline;
+}
+
+header li a {
+    color: black;
+    text-decoration: none;
+}
+
+
+header li {
+    margin: 20px;
+}
+
+body{
+  background-color: #408EDC;
+}
+
+body {
+  background-image: url("dot.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img{
+  width: 35%;
+  height: 35%;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  color: #000000;
+  font-size: 30px;
+  font-family: georgia;
+}
